@@ -17,7 +17,7 @@ export function Hero() {
           <div className="lg:hidden flex justify-center mb-4">
             <div className="relative">
               <Image
-                src="/images/carlosface-20-282-29.jpeg"
+                src="/images/forumboa.jpeg"
                 alt="Dr. Carlos Fernando Lopes de Oliveira - Advogado Criminalista"
                 width={200}
                 height={250}
@@ -85,7 +85,7 @@ export function Hero() {
           <div className="relative hidden lg:block">
             <div className="relative z-10">
               <Image
-                src="/images/carlosface-20-282-29.jpeg"
+                src="/images/forumboa.jpeg"
                 alt="Dr. Carlos Fernando Lopes de Oliveira - Advogado Criminalista"
                 width={500}
                 height={600}

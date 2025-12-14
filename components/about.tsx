@@ -10,7 +10,7 @@ export function About() {
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div className="relative">
             <Image
-              src="/images/dsc-5548-20-281-29.jpeg"
+              src="/images/mesaboa.jpeg"
               alt="Dr. Carlos Fernando Lopes de Oliveira - Mestre em Direito"
               width={500}
               height={600}
